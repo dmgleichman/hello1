@@ -38,7 +38,8 @@ class LayoutExample(QWidget):
                             'Hi',
                             'Salutations',
                             'Wassup',
-                            'Yo']
+                            'Yo',
+                            'WTF']
  
         # Create and fill the combo box to choose the salutation
         self.salutation = QComboBox(self)
