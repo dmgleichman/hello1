@@ -12,3 +12,5 @@ print "A = " + repr(a) + " B = "+ repr(b)
 
 c = a + b
 print "Added together = "+repr(c)
+
+print 'Not bad'
